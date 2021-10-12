@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <time.h>
 using namespace std;
-//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
+//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
 void weaponsMenu() {
     cout << "WEAPONS MENU\n";
     cout << "1. KATANA: Damage-100   Range-1   Ammo-INFINITE   Fire-Rate-20\n";
