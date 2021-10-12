@@ -74,4 +74,18 @@ int main()
     sleep(2);
     cout << "Wait, survive, the main point of the game is to survive.\n";
     sleep(2);
+    cout << "Something that you would never do is try to kill yourself\n";
+    sleep(2);
+    cout << "That has to be it.\n";
+    sleep(2);
+    cout << "There's an option in Cyberspace called self destruct.\n";
+    sleep(2);
+    cout << "Some people were so scared that they found hacks to erase that button from their hud\n";
+    sleep(2);
+    cout << "The last person to press the button activated it before the contest started.\n";
+    sleep(2);
+    cout << "People just had so much they didn't do it after the contest started.\n";
+    sleep(2);
+    cout << "No one wanted to lose all the things that they had aquired over many years.\n";
+    sleep(2);
 }
