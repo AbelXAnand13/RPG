@@ -74,7 +74,7 @@ int main()
     sleep(2);
     cout << "Wait, survive, the main point of the game is to survive.\n";
     sleep(2);
-    cout << "Something that you would never do is try to kill yourself\n";
+    cout << "Something that you would never do is try to suicide\n";
     sleep(2);
     cout << "That has to be it.\n";
     sleep(2);
@@ -87,5 +87,9 @@ int main()
     cout << "People just had so much they didn't do it after the contest started.\n";
     sleep(2);
     cout << "No one wanted to lose all the things that they had aquired over many years.\n";
+    sleep(2);
+    cout << "That has to be what the clue is refering to.\n";
+    sleep(2);
+    cout << "\n";
     sleep(2);
 }
